@@ -15,7 +15,7 @@ body::-webkit-scrollbar {
 #body-header {
     height: 65vh;
     opacity: 0.8;
-    background-image: url(/images/dsingh.jfif);
+    background-image: url(/Portfolio_website/images/dsingh.jfif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
