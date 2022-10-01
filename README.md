@@ -4,19 +4,31 @@ Please visit through this link
 https://bheem2510.github.io/Portfolio_website/
 
 
-### ❤️Connect With me:
-  
-  <a href="https://www.linkedin.com/in/bheem-mastkar-4510371ba" target="_blank">
-  <img align="left" alt="Bheem Mastkar | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  
-  <a href="https://www.instagram.com/_real_bheem/" target="_blank">
-   <img align="left" alt="Bheem Mastkar | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.facebook.com/bheem.mastkar/" target="_blank">
-   <img align="left" alt="Bheem Mastkar | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.facebook.com/bheem.mastkar/" target="_blank">
-   <img align="left" alt="Bheem Mastkar | Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+LICENSE:
+==========================
+Copyright (c) 2022 Bheem Mastkar
+
+Instagram-Bot Repository is licensed under the MIT License
+
+My Digital Garden:
+==========================
+
+
+ <p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+<br />
+<hr />
+
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/bheem-mastkar-4510371ba/
+[Facebook]: https://www.facebook.com/bheem.mastkar/
+
+
+If you have any Queries or Suggestions, feel free to reach out to me.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
