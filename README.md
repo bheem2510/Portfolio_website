@@ -2,7 +2,11 @@
 
 Please visit through this link
 https://bheem2510.github.io/Portfolio_website/
-
+<br><br>
+### Technology Used:
+    <li>HTML</li>
+    <li>CSS</li>
+    
 
 LICENSE:
 ==========================
